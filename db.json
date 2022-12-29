@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Mango pulp",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 10,
+      "comment": "Mango comment",
+      "date": "2022-11-07T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Kiwi",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "Kiwi",
+      "date": "2022-11-12T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 250,
+      "comment": "Expensive apple",
+      "date": "2022-10-31T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Test",
+      "category": "Electronnics",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "test",
+      "date": "2022-11-10T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Watch",
+      "category": "Electronnics",
+      "freshness": "Brand New",
+      "price": 190,
+      "comment": "comment",
+      "date": "2022-11-01T23:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Phone",
+      "category": "Electronnics",
+      "freshness": "Brand New",
+      "price": 299,
+      "comment": "Test comment",
+      "date": "2022-11-20T23:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
